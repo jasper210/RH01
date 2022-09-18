@@ -1,0 +1,6 @@
+#ifndef __HISEN_CONFIG_SOFTAP_H__
+#define __HISEN_CONFIG_SOFTAP_H__
+
+
+
+#endif//__HISEN_CONFIG_SOFTAP_H__

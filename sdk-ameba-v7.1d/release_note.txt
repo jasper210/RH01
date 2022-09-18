@@ -1,0 +1,19 @@
+
+>>> 210122_eb8c5563 <<<
+
+@@ Patch list before:
+7.1d_critical_patch_full_210111_3229e75f_v(08).zip
+7.1d_critical_patch_fix_assert caused by bt mesh user api task deinit_210115_82eba74b_v(01).zip
+7.1d_critical_patch_update_BT_SDK_210119_5789addf_v(02).zip
+
+@@ BASE:
+sdk-ameba-v7.1d.zip
++
+7.1d_critical_patch_full_210111_3229e75f_v(08).zip
++
+7.1d_critical_patch_fix_assert caused by bt mesh user api task deinit_210115_82eba74b_v(01).zip
++
+7.1d_critical_patch_update_BT_SDK_210119_5789addf_v(02).zip
+
+@@ release note:
+1. fix keep alive issue.
